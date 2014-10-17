@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrm:home|Door43 (yrm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrm|d43-yrm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrm/archive/master.zip|d43-yrm.zip]]
+
+**Recent Changes**
+{{changes>ns = yrm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrm|Ethnologue data]]
+
